@@ -1,0 +1,8 @@
+// import './instance'
+// import './lifecycle'
+// import './data-binding'
+// import './computed'
+// import './directive'
+// import './component/define.js'
+// import './component/features.js'
+import './component/render.js'
